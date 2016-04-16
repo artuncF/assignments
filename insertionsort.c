@@ -1,4 +1,4 @@
-#Insertion sort with 5 length array
+/*Insertion sort with 5 length array. It is exam question in introduction to programming course*/
 #include <stdio.h>
 #include <stdlib.h>
 int search(int [],int,int);
